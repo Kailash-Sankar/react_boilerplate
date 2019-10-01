@@ -21,7 +21,8 @@
     }
   },
   "keywords": [],
-  "author": "",
+  "author": "Kailash Sankar",
+  "homepage": "https://github.com/Kailash-Sankar/react_boilerplate",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
